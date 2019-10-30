@@ -35,3 +35,15 @@ Below are the notebooks for Models:
 You need to have [Jupyter Notebook](http://ipython.org/notebook.html) installed to run the file
 
 If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. 
+
+## Run
+
+To run the notebook, open terminal or command window, navigate to the top-level project directory `Image-Classification-1/` (that contains this README) and run one of the following commands:
+
+```bash
+ipython notebook Exploratory data analysis.ipynb
+```  
+or
+```bash
+jupyter notebook Exploratory data analysis.ipynb
+```
