@@ -1,0 +1,7 @@
+*.csv
+setup.ipynb
+data/
+Notes.txt
+*.zip
+metrics.py
+__pycache__/
